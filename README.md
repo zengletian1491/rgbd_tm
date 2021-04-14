@@ -10,6 +10,12 @@ Currently under review. Submitted February 2021.
 
 # Table of Contents
 
+- [RGBD-TM](#rgbd-tm)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Creating a camera_info yaml](#creating-a-camera-info-yaml)
+- [Color correct](#color-correct)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
