@@ -1,0 +1,2 @@
+openmesh
+shapely
