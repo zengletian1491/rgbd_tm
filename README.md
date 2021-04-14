@@ -1,8 +1,15 @@
 # RGBD-TM
 
+Work submitted to Sensors (ISSN 1424-8220), entitled:
+
+**Robust Texture Mapping using RGB-D Cameras**
+
+Miguel Oliveira, Gi Hyun Lim, Tiago Madeira, Paulo Dias and Vítor Santos
+
+Currently under review. Submitted February 2021.
+
 # Table of Contents
 
-...
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
