@@ -1,2 +1,12 @@
+dataclasses
+matplotlib
+numpy
+opencv-python
 openmesh
+plyfile
+pyglet
+pywavefront
+pyyaml
+scipy
 shapely
+tqdm
